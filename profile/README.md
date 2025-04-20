@@ -26,7 +26,7 @@ We'll take care of the rest, including setup and integration.
 
 ---
 
-## 💻 Client
+## [💻 Client](https://github.com/MyraPlatform/client/)
 
 The **Myra Client** is where you download, launch, and manage software from your library.
 
